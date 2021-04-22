@@ -15,7 +15,7 @@
   "keywords": [],
   "author": "Mihir Patel",
   "dependencies": {
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "bluebird": "^3.5.5",
     "bottleneck": "^2.19.5",
     "highland": "^2.13.5",
